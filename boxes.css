@@ -1,7 +1,7 @@
 .boxes {
   width: 600px;
   margin: 0 auto;
-  background-color: yellow;
+  background-color: green;
   display: flex; /* Flexboxの利用 */
   justify-content: center; /* 子要素の横並び・中央寄せ */
 }
@@ -9,10 +9,10 @@
 .box1 {
   width: 150px;
   height: 400px;
-  background-color: orange;
+  background-color: yellowgreen;
 }
 .box2 {
   width: 250px;
   height: 400px;
-  background-color: red;
+  background-color: yellow;
 }
